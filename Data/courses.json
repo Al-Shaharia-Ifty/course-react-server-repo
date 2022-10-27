@@ -1,5 +1,8 @@
 [
   {
-    "id": 1
+    "id": 1,
+    "img": "https://www.creativeitinstitute.com/images/course/course_1665409737.jpg",
+    "name": "professional graphic design",
+    "price": "40000"
   }
 ]
